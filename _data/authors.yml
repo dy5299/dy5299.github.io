@@ -3,7 +3,7 @@
 # You can change `author1` to your shortname.
 author1:
   # Replace <...> with your own (remove the < >)
-  name:              <firstname> <lastname>
+  name:              Dayoung Kim
   email:             <mail@domain.tld>
 
   # Used at the bottom of each page and at the top of the `about` layout
