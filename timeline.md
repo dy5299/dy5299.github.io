@@ -18,7 +18,7 @@ hide_description: true
 image: /assets/img/blog/hydejack-8.png
 ---
 
-제 블로그에 오신 것을 환영합니다.
+타임라인입니다
 {:.lead}
 
 ![Screenshot](assets/img/blog/hydejack-8.png){:.lead srcset="/assets/img/blog/hydejack-8.png 1920w, /assets/img/blog/hydejack-8@0,5x.png 960w, /assets/img/blog/hydejack-8@0,25x.png 480w" data-width="1920" data-height="1080"}
