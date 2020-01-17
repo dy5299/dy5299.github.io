@@ -19,12 +19,12 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Coding
+title:                 DY Coding
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  안녕하세요 블로그입니다
+  안녕하세요 다영 블로그입니다
 
 # A shorter description for the sidebar.
 tagline:               >
@@ -36,7 +36,7 @@ keywords:              [Python, R, JAVA]
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/icons/icon.png
+logo:                  /assets/icons/200117_icons.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
